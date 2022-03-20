@@ -208,7 +208,7 @@ hr {
     margin-bottom: -17px;
 	margin-right: 5px;
     content: "";
-    background:url(/Users/anekamulgund/Coding/themeforest-MaLfsVAS-ronald-app-landing-html5-template/ronald/images/person.jpeg) no-repeat 0 0;
+    background:url(../images/person.jpeg) no-repeat 0 0;
     background-size: 32px 32px;
 }
 #feat2 h3:before {
@@ -218,7 +218,7 @@ hr {
     margin-bottom: -17px;
 	margin-right: 5px;
     content: "";
-    background:url(/Users/anekamulgund/Coding/themeforest-MaLfsVAS-ronald-app-landing-html5-template/ronald/images/journal.png) no-repeat 0 0;
+    background:url(../images/journal.png) no-repeat 0 0;
     background-size: 32px 32px;
 	
 }
@@ -229,7 +229,7 @@ hr {
     margin-bottom: -17px;
 	margin-right: 5px;
     content: "";
-    background:url(/Users/anekamulgund/Coding/themeforest-MaLfsVAS-ronald-app-landing-html5-template/ronald/images/education.png) no-repeat 0 0;
+    background:url(../images/education.png) no-repeat 0 0;
     background-size: 32px 32px;
 	
 }
@@ -240,7 +240,7 @@ hr {
     margin-bottom: -17px;
 	margin-left: 5px;
     content: "";
-    background:url(/Users/anekamulgund/Coding/themeforest-MaLfsVAS-ronald-app-landing-html5-template/ronald/images/functional.png) no-repeat 0 0;
+    background:url(../images/functional.png) no-repeat 0 0;
     background-size: 32px 32px;
 	
 }
@@ -251,7 +251,7 @@ hr {
     margin-bottom: -17px;
 	margin-left: 5px;
     content: "";
-    background:url(/Users/anekamulgund/Coding/themeforest-MaLfsVAS-ronald-app-landing-html5-template/ronald/images/score.png) no-repeat 0 0;
+    background:url(../images/score.png) no-repeat 0 0;
     background-size: 32px 32px;
 	
 }
@@ -262,7 +262,7 @@ hr {
     margin-bottom: -17px;
 	margin-left: 0px;
     content: "";
-    background:url(/Users/anekamulgund/Coding/themeforest-MaLfsVAS-ronald-app-landing-html5-template/ronald/images/human.png) no-repeat 0 0;
+    background:url(../images/score.png) no-repeat 0 0;
     background-size: 42px 42px;
 	
 }
@@ -975,7 +975,7 @@ label {
 /* 3. slider */
 .slider-bg {
 	height: 835px;
-	background-image: url(/Users/anekamulgund/Coding/themeforest-MaLfsVAS-ronald-app-landing-html5-template/ronald/images/kunj-parekh-Y5BD-H9qGvs-unsplash.jpg);
+	background-image: url(../images/front-background.jpg);
 	background-position: center;
 	background-size: 865px 500px;
 	background-size: cover;
